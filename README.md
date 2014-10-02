@@ -1,4 +1,5 @@
 # Code Rails
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sudden-break/code-rails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://www.gitbook.io/button/status/book/brookr/code-rails)](https://www.gitbook.io/book/brookr/code-rails/activity)
 
 Welcome to Code Rails, a workbook that has one objective: Help you rapidly learn some new coding skills.
